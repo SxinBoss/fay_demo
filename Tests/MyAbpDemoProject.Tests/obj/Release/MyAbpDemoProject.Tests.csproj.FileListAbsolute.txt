@@ -1,0 +1,3 @@
+D:\MyAbpDemoProject\3.7.0\src\Tests\MyAbpDemoProject.Tests\obj\Release\MyAbpDemoProject.Tests.csprojAssemblyReference.cache
+D:\MyAbpDemoProject\3.7.0\src\Tests\MyAbpDemoProject.Tests\obj\Release\MyAbpDemoProject.Tests.dll.config
+D:\MyAbpDemoProject\3.7.0\src\Tests\MyAbpDemoProject.Tests\obj\Release\MyAbpDemoProject.Tests.csproj.CoreCompileInputs.cache
