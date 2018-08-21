@@ -24,7 +24,7 @@ namespace MyAbpDemoProject.EntityFramework
 
         /* NOTE:
          *   This constructor is used by ABP to pass connection string defined in MyAbpDemoProjectDataModule.PreInitialize.
-         *   Notice that, actually you will not directly create an instance of MyAbpDemoProjectDbContext since ABP automatically handles it.
+         *   Notice that, actually you will not directly create an instanchttps://gitee.com/fay_chen/apb_demo.gite of MyAbpDemoProjectDbContext since ABP automatically handles it.
          */
         public MyAbpDemoProjectDbContext(string nameOrConnectionString)
             : base(nameOrConnectionString)
