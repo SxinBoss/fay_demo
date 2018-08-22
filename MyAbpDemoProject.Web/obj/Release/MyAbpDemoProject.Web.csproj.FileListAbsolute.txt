@@ -1,3 +1,0 @@
-D:\MyAbpDemoProject\3.7.0\src\MyAbpDemoProject.Web\obj\Release\MyAbpDemoProject.Web.csprojAssemblyReference.cache
-D:\MyAbpDemoProject\3.7.0\src\MyAbpDemoProject.Web\obj\Release\MyAbpDemoProject.Web.dll.config
-D:\MyAbpDemoProject\3.7.0\src\MyAbpDemoProject.Web\obj\Release\MyAbpDemoProject.Web.csproj.CoreCompileInputs.cache

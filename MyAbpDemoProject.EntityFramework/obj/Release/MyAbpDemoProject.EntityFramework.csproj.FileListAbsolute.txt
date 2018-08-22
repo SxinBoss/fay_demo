@@ -1,1 +1,0 @@
-D:\MyAbpDemoProject\3.7.0\src\MyAbpDemoProject.EntityFramework\obj\Release\MyAbpDemoProject.EntityFramework.csprojAssemblyReference.cache

@@ -1,3 +1,0 @@
-D:\MyAbpDemoProject\3.7.0\src\Tools\MyAbpDemoProject.Migrator\obj\Release\MyAbpDemoProject.Migrator.csprojAssemblyReference.cache
-D:\MyAbpDemoProject\3.7.0\src\Tools\MyAbpDemoProject.Migrator\obj\Release\MyAbpDemoProject.Migrator.exe.config
-D:\MyAbpDemoProject\3.7.0\src\Tools\MyAbpDemoProject.Migrator\obj\Release\MyAbpDemoProject.Migrator.csproj.CoreCompileInputs.cache
